@@ -1,9 +1,6 @@
 <!-- ================= HEADER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=170&section=header&text=Vismay%20Parekh&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full+Stack+Python+Developer;React+%7C+FastAPI+%7C+Django+Engineer;AI+%7C+LLM+%7C+RAG+Systems;Cloud-Native+Architecture+Builder&center=true&size=25&color=00F5FF">
-</h1>
 
 ---
 
