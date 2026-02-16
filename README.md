@@ -49,7 +49,6 @@ I focus on designing **production-ready, scalable, and secure systems** with cle
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vismayparekh&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://streak-stats.demolab.com?user=vismayparekh&theme=tokyonight&hide_border=true" height="165">
 </p>
 
