@@ -124,7 +124,7 @@ I design systems that are:
 # 📫 Connect
 
 - 💼 GitHub: https://github.com/vismayparekh  
-- 📧 Email: vismay.vp4@gmail.com  
+- 📧 Email: vismayparekh0398@gmail.com  
 
 ---
 
